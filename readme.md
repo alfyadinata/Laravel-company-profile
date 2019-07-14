@@ -1,7 +1,3 @@
--composer install
--import database
--localhost:yourPort/clear for clear cache view,route,config,cache
-<a href="https://company.adinata.site/">Demo</a>
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
